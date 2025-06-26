@@ -1,7 +1,5 @@
-<<<<<<< Updated upstream
-# Propose your crush in unique way
-=======
-# Unique Proposal to Crush
+
+## Unique Proposal to Crush
 
 A creative and visually appealing web page to propose to your crush in a unique way, featuring animated hearts and a romantic background.
 
